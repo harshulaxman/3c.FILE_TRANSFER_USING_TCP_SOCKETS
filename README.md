@@ -1,4 +1,4 @@
-# DATE:
+## DATE:
 # 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
 ## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
@@ -58,7 +58,9 @@ while True:
 
 ```
 ## OUTPUT
+CLIENT:
 ![image](https://github.com/user-attachments/assets/bcb4bb17-1025-4f09-8546-7c2bc48101b5)
+SERVER:
 ![image](https://github.com/user-attachments/assets/5dbec946-5763-47ff-9fb7-802841f5f512)
 
 ## RESULT
