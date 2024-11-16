@@ -1,5 +1,7 @@
-## DATE:
+
 # 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
+## NAME: HARSSHITHA LAKSHMANAN
+## REGNO: 212223230075
 ## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
 ## ALGORITHM:
